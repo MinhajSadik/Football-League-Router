@@ -1,0 +1,10 @@
+.header-style{
+    height: 150px;
+    text-align: center;
+    background-image: url("../../Photo/stadium.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #f7f4f5;
+}
